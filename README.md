@@ -6,27 +6,27 @@
 
 An interactive web platform designed to analyze, visualize, and communicate national road safety trends across Australia. Built as a course assignment for **COS30045 Data Visualisation**, this project transforms complex raw government datasets into intuitive, user-driven data visualisations to highlight fatality metrics, demographic injury distributions, and seasonal crash patterns.
 
-👉 **[View Live Website](https://janysy2710.github.io/Australian-Road-Safety-Insights-Website/)**
+**[View Live Website](https://janysy2710.github.io/Australian-Road-Safety-Insights-Website/)**
 
 ---
 
 ## 📌 Features & Visualisations
 
-### 1. 🗺️ State-by-State Fatality Choropleth Map
+### 1. State-by-State Fatality Choropleth Map
 * **Overview:** Interactive geographic map displaying road fatality counts across Australian states and territories.
 * **Key Interactivity:**
   * Dynamic year slider and automated timeline playback animation.
   * Hover tooltips and highlight interactions linked directly to color intensity scales.
   * Geographic breakdown isolating high-density corridors vs. regional trends.
 
-### 2. ☀️ Demographic Hospitalisations Sunburst Chart
+### 2. Demographic Hospitalisations Sunburst Chart
 * **Overview:** Hierarchical visual breakdown of non-fatal, hospitalised road injuries grouped by road user categories (drivers, motorcyclists, pedestrians).
 * **Key Interactivity:**
   * Drill-down navigation (click-to-zoom into specific categories or sub-groups).
   * Demographic filters by **Age Group** and **Gender**.
   * Dynamic aggregate view toggles.
 
-### 3. 📊 Seasonal Trends Multi-Chart Dashboard
+### 3. Seasonal Trends Multi-Chart Dashboard
 * **Overview:** A coordinated multi-chart interface tracking temporal incident behaviors across multi-decade spans.
 * **Components:**
   * **Yearly Trends:** Historical bar chart highlighting macro changes over time.
